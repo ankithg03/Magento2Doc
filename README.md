@@ -1,6 +1,6 @@
 # Magento2Doc
 
-## Installation
+## Software
 
 ## Install Apache2
 Apache2 installation
