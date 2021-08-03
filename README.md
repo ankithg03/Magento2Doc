@@ -1,5 +1,7 @@
 # Magento2Doc
-﻿## Installation
+
+## Installation
+
 ## Install Apache2
 Apache2 installation
 ```
